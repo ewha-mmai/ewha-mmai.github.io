@@ -58,19 +58,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-faculty",
+              title: "Faculty",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/faculty/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-students",
+              title: "Students",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/students/";
               },
             },{id: "post-a-post-with-image-galleries",
         
