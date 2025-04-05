@@ -2,8 +2,7 @@
 layout: page
 title: Placeholder
 description: Student
-img: /assets/img/tmp.jpeg
-importance: 12
+img: /assets/img/9.jpg
 category: Undergraduate Students
 redirect:  
 ---
