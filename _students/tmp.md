@@ -3,6 +3,6 @@ layout: page
 title: Placeholder
 description: Student
 img: /assets/img/9.jpg
-category: Undergraduate Students
+category: undergraduate
 redirect:  
 ---
