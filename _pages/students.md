@@ -4,7 +4,7 @@ title: students
 permalink: /students/
 description: 
 nav: false
-display_categories: [Graduate Students, Undergraduate Students]
+display_categories: [graduate, undergraduate]
 horizontal: true
 ---
 
