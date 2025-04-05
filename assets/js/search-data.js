@@ -410,7 +410,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-multimodal-ai-lab-ewha-website-is-now-open",
-          title: 'Multimodal AI Lab@EWHA website is now open!',
+          title: 'Multimodal AI Lab@EWHA website is now open!👋',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
