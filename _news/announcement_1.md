@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Multimodal AI Lab@EWHA website is now open!
+Multimodal AI Lab@EWHA website is now open!👋
