@@ -406,8 +406,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-1-paper-is-accepted-in-cvpr-2025-smile",
+          title: '1 paper is accepted in CVPR 2025 :smile:',
           description: "",
           section: "News",},{id: "news-multimodal-ai-lab-ewha-website-is-now-open",
           title: 'Multimodal AI Lab@EWHA website is now open!👋',
