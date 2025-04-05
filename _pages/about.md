@@ -23,3 +23,7 @@ Our research spans multimodal generation, large audiovisual/vision-language mode
 We build multimodal systems that learn with minimal supervision and perform reliably in diverse, real-world settings.
 We aim to push the boundaries of multimodal learning and create AGI that is creative, effective, and efficient.
 
+
+**Recruiting Undergraduate Interns/ Graduate Students**:
+We are looking for undergraduate interns, and graduate students to collaborate with! 
+If you are interested in doing cool multimodal learning research, please send your CV and GPA to <a href="mailto:lee.jiyoung@ewha.ac.kr"><i class="fa-solid fa-envelope"></i></a>.
