@@ -32,6 +32,17 @@ If you are interested in doing cool multimodal learning research, please send yo
 
 
 ### News
+<table class="table table-sm table-borderless">
+  <tr>
+      <th scope="row" style="width: 20%"> Apr 2025 </th>
+      <td> Multimodal AI Lab @ EWHA website is now open! 👋 </td>
+  </tr>
+  <tr>
+      <th scope="row" style="width: 20%"> Feb 2025 </th>
+      <td> One paper is accepted at **CVPR** 2025! 🎉 </td>
+  </tr>
+</table>
+
 **Apr 2025** Multimodal AI Lab @ EWHA website is now open! 👋
 
 **Feb 2025** 1 paper is accepted at **CVPR** 2025.
