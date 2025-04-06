@@ -32,16 +32,24 @@ If you are interested in doing cool multimodal learning research, please send yo
 
 
 ### News
-<table class="table table-sm table-borderless">
-  <tr>
-      <th scope="row" style="width: 20%"> Apr 2025 </th>
-      <td> Multimodal AI Lab @ EWHA website is now open! 👋 </td>
-  </tr>
-  <tr>
-      <th scope="row" style="width: 20%"> Feb 2025 </th>
-      <td> One paper is accepted at **CVPR** 2025! 🎉 </td>
-  </tr>
-</table>
+<div class="news">
+  <div class="table-responsive" style="max-height: 60vw">
+  <table class="table table-sm table-borderless">
+    <tr>
+        <th scope="row" style="width: 20%"> Apr 2025 </th>
+        <td> <b style="color: green">Multimodal AI Lab @ EWHA</b> website is now open! 👋 </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Feb 2025 </th>
+        <td> One paper is accepted at <b>CVPR</b> 2025! 🎉 </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Dec 2024 </th>
+        <td> Prof.Jiyoung Lee presented at <b><a href="https://event-us.kr/eventinfo/event/96012" style="color: green">Postech AI day</a></b> (topic: Read, Watch and Scream! Sound Generation from Text and Video). </td>
+    </tr>
+  </table>
+  </div>
+</div>
 
 **Apr 2025** Multimodal AI Lab @ EWHA website is now open! 👋
 
