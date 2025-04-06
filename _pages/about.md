@@ -32,15 +32,15 @@ If you are interested in doing cool multimodal learning research, please send yo
 ### News
 **Apr 2025** Multimodal AI Lab @ EWHA website is now open! 👋
 
-**Feb 2025** 1 paper is accepted in **CVPR** 2025.
+**Feb 2025** 1 paper is accepted at **CVPR** 2025.
 
 **Dec 2024** Prof.Jiyoung Lee presented at **<a href="https://event-us.kr/eventinfo/event/96012" style="color: green">Postech AI day</a>** (topic: Read, Watch and Scream! Sound Generation from Text and Video).
 
 **Dec 2024** Prof.Jiyoung Lee presented at **HUST, Vietnam** (topic: Audio Generation from Visual Contents).
 
-**Dec 2024** 1 paper is accepted in **AAAI** 2025.
+**Dec 2024** 1 paper is accepted at **AAAI** 2025.
 
-**Oct 2024** 1 paper is accepted in **NeurIPS 2024 Workshop on Video-Language Models**.
+**Oct 2024** 1 paper is accepted at **NeurIPS 2024 Workshop on Video-Language Models**.
 
 **Sep 2024** 1 paper is accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) [Q1]**.
 
@@ -51,8 +51,9 @@ If you are interested in doing cool multimodal learning research, please send yo
 **Jan 2024** 2 papers are accepted at **ICLR** 2024.
 
 <details>
-<summary>older news</summary>
+<summary>📂 older news</summary>
 <div markdown="1">
+  
 **Sep 2023** Prof.Jiyoung Lee serves a lecture, **<a href="https://naver-ai.github.io/202302-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2023).
 
 **Jul 2023** 2 papers are accepted at **ICCV** 2023.
