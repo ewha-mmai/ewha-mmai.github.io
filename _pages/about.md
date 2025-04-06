@@ -28,6 +28,9 @@ We aim to push the boundaries of multimodal learning and create AGI that is crea
 We are looking for undergraduate interns, and graduate students to collaborate with! 
 If you are interested in doing cool multimodal learning research, please send your CV and GPA to <a href="mailto:lee.jiyoung@ewha.ac.kr"><i class="fa-solid fa-envelope"></i></a>.
 
+&nbsp;
+
+&nbsp;
 
 ### News
 **Apr 2025** Multimodal AI Lab @ EWHA website is now open! 👋
