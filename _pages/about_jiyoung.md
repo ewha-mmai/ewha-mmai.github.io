@@ -7,6 +7,8 @@ Previously, I interned at Adobe Research in 2021, working with <a href="https://
 I am broadly interested in multimodal learning & computer vision. 
 Mostly, I am interested in audio-visual/vision-language models, generative modeling, video understanding, and 3D vision, but not limited to.
 
+&nbsp;
+
 ### Professional Experience
 Assistant Professor at Ewha Womans University, Seoul, Republic of Korea (2025.03 - Current)
 
@@ -15,6 +17,8 @@ Research Scientist in NAVER AI Lab, Seongnam, Republic of Korea (2021.12 - 2025.
 Research Intern in Adobe Research, USA (2021.06 - 2021.11)
 
 Student Co-worker (INTERNSHiP CANCELED BY COVID19) in Microsoft Research, USA (2020.04 - 2021.02)
+
+&nbsp;
 
 ### Professional Activities
 Program committee
