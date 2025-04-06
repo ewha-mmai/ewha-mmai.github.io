@@ -396,7 +396,7 @@ ninja.data = [{
           title: '1 paper is accepted in CVPR 2025 :smile:',
           description: "",
           section: "News",},{id: "news-multimodal-ai-lab-ewha-website-is-now-open",
-          title: 'Multimodal AI Lab@EWHA website is now open!👋',
+          title: 'Multimodal AI Lab @ EWHA website is now open!👋',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
