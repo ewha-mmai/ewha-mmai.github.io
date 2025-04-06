@@ -40,6 +40,10 @@ If you are interested in doing cool multimodal learning research, please send yo
         <td> <b style="color: green">Multimodal AI Lab @ EWHA</b> website is now open! 👋 </td>
     </tr>
     <tr>
+        <th scope="row" style="width: 20%"> Mar 2025 </th>
+        <td> Prof.Jiyoung Lee joins in <b><a href="https://ai.ewha.ac.kr/deptai/index.do" style="color: green">Dept. of AI, Ewha Womans University</a></b> 👋 </td>
+    </tr>
+    <tr>
         <th scope="row" style="width: 20%"> Feb 2025 </th>
         <td> One paper is accepted at <b>CVPR</b> 2025! 🎉 </td>
     </tr>
@@ -47,69 +51,40 @@ If you are interested in doing cool multimodal learning research, please send yo
         <th scope="row" style="width: 20%"> Dec 2024 </th>
         <td> Prof.Jiyoung Lee presented at <b><a href="https://event-us.kr/eventinfo/event/96012" style="color: green">Postech AI day</a></b> (topic: Read, Watch and Scream! Sound Generation from Text and Video). </td>
     </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Dec 2024 </th>
+        <td> Prof.Jiyoung Lee presented at <b>HUST, Vietnam</b> (topic: Audio Generation from Visual Contents). </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Dec 2024 </th>
+        <td> One paper is accepted at <b>AAAI</b> 2025! 🎉 </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Oct 2024 </th>
+        <td> One paper is accepted at <b>NeurIPS 2024 Workshop on Video-Language Models</b> 2024! 🎉 </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Sep 2024 </th>
+        <td> One paper is accepted in <b>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) [Q1]</b>! 🎉 </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Sep 2024 </th>
+        <td> Prof.Jiyoung Lee serves a lecture, <b><a href="https://naver-ai.github.io/202402-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a></b>, at Seoul National University (Fall 2024) </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Jun 2024 </th>
+        <td> One paper is accepted in <b>Pattern Recognition (PR) [Q1]</b>! 🎉 </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Jan 2024 </th>
+        <td> Two papers are accepted at <b>ICLR</b> 2024! 🎉 </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Before 2024 </th>
+        <td> You can find our older news in <a href="https://lee-jiyoung.github.io/">here</a> </td>
+    </tr>
   </table>
   </div>
 </div>
 
-**Apr 2025** Multimodal AI Lab @ EWHA website is now open! 👋
 
-**Feb 2025** 1 paper is accepted at **CVPR** 2025.
-
-**Dec 2024** Prof.Jiyoung Lee presented at **<a href="https://event-us.kr/eventinfo/event/96012" style="color: green">Postech AI day</a>** (topic: Read, Watch and Scream! Sound Generation from Text and Video).
-
-**Dec 2024** Prof.Jiyoung Lee presented at **HUST, Vietnam** (topic: Audio Generation from Visual Contents).
-
-**Dec 2024** 1 paper is accepted at **AAAI** 2025.
-
-**Oct 2024** 1 paper is accepted at **NeurIPS 2024 Workshop on Video-Language Models**.
-
-**Sep 2024** 1 paper is accepted in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) [Q1]**.
-
-**Sep 2024** Prof.Jiyoung Lee serves a lecture, **<a href="https://naver-ai.github.io/202402-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2024).
-
-**Jun 2024** 1 paper is accepted in **Pattern Recognition (PR) [Q1]**.
-
-**Jan 2024** 2 papers are accepted at **ICLR** 2024.
-
-<details>
-<summary>📂 older news</summary>
-<div markdown="1">
-  
-**Sep 2023** Prof.Jiyoung Lee serves a lecture, **<a href="https://naver-ai.github.io/202302-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a>**, at Seoul National University (Fall 2023).
-
-**Jul 2023** 2 papers are accepted at **ICCV** 2023.
-
-**Apr 2023** 1 paper is accepted at **ICML** 2023.
-
-**Apr 2023** 1 paper is accepted at **CVPR Workshop** 2023.
-
-**Feb 2023** 1 paper is accepted at **CVPR** 2023.
-
-**Feb 2023** 1 paper is accepted at **ICASSP** 2023.
-
-**Nov 2022** 1 paper is accepted at **AAAI** 2023.
-
-**Oct 2022** 1 paper is accepted at **WACV** 2023.
-
-**Sep 2022** 1 paper is accepted at **NeurIPS** 2022.
-
-**Jul 2022** 1 paper is accepted at **ECCV** 2022.
-
-**Mar 2022** 2 papers are accepted at **CVPR** 2022.
-
-**Jan 2022** 1 paper is accepted at **ICASSP** 2022.
-
-**Jan 2022** 1 paper is accepted at **CLeaR** 2022.
-
-**Oct 2021** 1 paper is accepted at **BMVC** 2021.
-
-**May 2021** 1 paper is accepted at **ICIP** 2021.
-
-**Mar 2021** 2 papers are accepted at **CVPR** 2021.
-
-**Jul 2020** 1 paper is accepted at **ECCV** 2020.
-
-**May 2020** 1 paper is accepted in **IEEE Transactions on Image Processing (TIP) [Q1]**.
-
-</div>
-</details>
