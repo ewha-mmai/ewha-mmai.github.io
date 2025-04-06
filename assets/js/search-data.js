@@ -443,11 +443,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "students-placeholder",
-          title: 'Placeholder',
-          description: "Student",
+            },},{id: "students-hyemin-boo",
+          title: 'Hyemin Boo',
+          description: "Vision Language Model, Generative Model",
           section: "Students",handler: () => {
-              window.location.href = "/students/tmp/";
+              window.location.href = "/students/hyemin_boo/";
             },},{
         id: 'social-email',
         title: 'email',
