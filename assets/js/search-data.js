@@ -448,11 +448,21 @@ ninja.data = [{
           description: "Multimodal Generation",
           section: "Students",handler: () => {
               window.location.href = "/students/eunji_shin/";
+            },},{id: "students-eunsang-lee",
+          title: 'Eunsang Lee',
+          description: "Computer Vision, Audio Generation",
+          section: "Students",handler: () => {
+              window.location.href = "/students/eunsang_lee/";
             },},{id: "students-hyemin-boo",
           title: 'Hyemin Boo',
           description: "Vision Language Model, Generative Model",
           section: "Students",handler: () => {
               window.location.href = "/students/hyemin_boo/";
+            },},{id: "students-yunjin-song",
+          title: 'YunJin Song',
+          description: "Vision Language Model",
+          section: "Students",handler: () => {
+              window.location.href = "/students/yunjin_song/";
             },},{
         id: 'social-email',
         title: 'email',
