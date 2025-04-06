@@ -443,6 +443,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "students-eunji-shin",
+          title: 'Eunji Shin',
+          description: "Multimodal Generation",
+          section: "Students",handler: () => {
+              window.location.href = "/students/eunji_shin/";
             },},{id: "students-hyemin-boo",
           title: 'Hyemin Boo',
           description: "Vision Language Model, Generative Model",
