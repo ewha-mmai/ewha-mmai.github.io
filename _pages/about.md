@@ -18,7 +18,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-**Multimodal AI Lab @ EWHA** focuses on developing robust and generalizable AI models that understand and generate information across multiple modalities—vision, language, and audio. 
+<b style="color: green">Multimodal AI Lab @ EWHA</b> focuses on developing robust and generalizable AI models that understand and generate information across multiple modalities—vision, language, and audio. 
 Our research spans multimodal generation, large audiovisual/vision-language models, video understanding, 3D perception, and cross-modal grounding. 
 We build multimodal systems that learn with minimal supervision and perform reliably in diverse, real-world settings.
 We aim to push the boundaries of multimodal learning and create AGI that is creative, effective, and efficient.
@@ -30,7 +30,6 @@ If you are interested in doing cool multimodal learning research, please send yo
 
 &nbsp;
 
-&nbsp;
 
 ### News
 **Apr 2025** Multimodal AI Lab @ EWHA website is now open! 👋
