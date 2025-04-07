@@ -458,6 +458,11 @@ ninja.data = [{
           description: "Vision Language Model, Generative Model",
           section: "Students",handler: () => {
               window.location.href = "/students/hyemin_boo/";
+            },},{id: "students-myungjin-lee",
+          title: 'Myungjin Lee',
+          description: "Vision Language Model, Multimodal Generation",
+          section: "Students",handler: () => {
+              window.location.href = "/students/myungjin_lee/";
             },},{id: "students-yunjin-song",
           title: 'YunJin Song',
           description: "Vision Language Model",
