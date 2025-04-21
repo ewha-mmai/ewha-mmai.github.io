@@ -463,6 +463,11 @@ ninja.data = [{
           description: "Vision Language Model, Generative Model",
           section: "Students",handler: () => {
               window.location.href = "/students/hyemin_boo/";
+            },},{id: "students-jeonghyeon-joo",
+          title: 'Jeonghyeon Joo',
+          description: "Visual Document Understanding, Multimodal Learning, Audiovisual Reasoning",
+          section: "Students",handler: () => {
+              window.location.href = "/students/jeonghyeon_joo/";
             },},{id: "students-myungjin-lee",
           title: 'Myungjin Lee',
           description: "Vision Language Model, Multimodal Generation",
