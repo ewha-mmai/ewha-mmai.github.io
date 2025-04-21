@@ -7,13 +7,12 @@
     url: https://park-jungin.github.io/
 
 "sohn":
-  - firstname: ["kwanghoon"]
+  - firstname: ["Kwanghoon"]
     url: https://diml.yonsei.ac.kr/professor/
 
 "kim":
-  - firstname: ["seungryong"]
+  - firstname: ["Seungryong"]
     url: https://cvlab.kaist.ac.kr/members/faculty
-
-"kim":
-  - firstname: ["sunok"]
+    
+  - firstname: ["Sunok"]
     url: https://cvlab.kau.ac.kr/
