@@ -5,20 +5,21 @@
 @string{ECCV = {European Conference on Computer Vision (ECCV)}}
 @string{CVPR = {IEEE/CVF International Conference on Computer Vision Pattern Recognition (CVPR)}}
 @string{CVPRW = {IEEE/CVF International Conference on Computer Vision Pattern Recognition Workshops (CVPRW)}}
-@string{NeurIPS = {Neural Information Processing Systems (NeurIPS)}}
+@string{WACV = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)}}
+@string{NeurIPS = {Advances in Neural Information Processing Systems (NeurIPS)}}
 @string{ICLR = {International Conference on Learning Representations (ICLR)}}
 @string{ICML = {International Conference on Machine Learning (ICML)}}
 @string{AAAI = {AAAI Conference on Artificial Intelligence (AAAI)}}
-
+@string{BMVC = {British Machine Vision Conference (BMVC)}}
 
 
 
 @inproceedings{park2025byov,
   title={Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations},
-  author={Park, Jungin and Lee*, Jiyoung and Sohn*, Kwanghoon},
+  author={Park, Jungin and Lee*, Jiyoung and Sohnf, Kwanghoon},
   booktitle=CVPR,
   year={2025},
-  abbr={Vision},
+  abbr={Vision, Video},
   bibtex_show={true},
   paper={https://arxiv.org/abs/2503.19706},
   code={https://github.com/park-jungin/byov}
@@ -36,17 +37,6 @@
   code={https://github.com/naver-ai/rewas}
 }
 
-@article{lee2024discriminative,
-  title={Discriminative action tubelet detector for weakly-supervised action detection},
-  author={Lee, Jiyoung and Kim, Seungryong and Kim, Sunok and Sohn, Kwanghoon},
-  journal={Pattern Recognition},
-  volume={155},
-  pages={110704},
-  year={2024},
-  publisher={Elsevier},
-  paper={https://www.sciencedirect.com/science/article/pii/S0031320324004552?casa_token=-3WwtSDPclUAAAAA:luVmwjyqLhLSmq48_ycR70WEyPbwXDyhkPejuPGY_uC20bWT0Rl3ioT_6gN67OG-xXQWPfcvbQ}
-}
-
 @article{kim2024prototype,
   title={Prototype-Guided Attention Distillation for Discriminative Person Search},
   author={Kim, Hanjae and Lee, Jiyoung and Sohn, Kwanghoon},
@@ -56,31 +46,288 @@
   paper={https://ieeexplore.ieee.org/abstract/document/10681282/?casa_token=WYcfmu0QvLsAAAAA:2LG14u7yf7IeilWhcmSri1GjOWxIbffWHwr-9LQUAd9JdkfIyhzqV2uhH26dfSuW54aMBG5cEw}
 }
 
+
+@article{lee2024discriminative,
+  title={Discriminative action tubelet detector for weakly-supervised action detection},
+  author={Lee, Jiyoung and Kim, Seungryong and Kim, Sunok and Sohn, Kwanghoon},
+  journal={Pattern Recognition},
+  volume={155},
+  pages={110704},
+  year={2024},
+  publisher={Elsevier},
+  abbr={Vision, Video},
+  paper={https://www.sciencedirect.com/science/article/pii/S0031320324004552?casa_token=-3WwtSDPclUAAAAA:luVmwjyqLhLSmq48_ycR70WEyPbwXDyhkPejuPGY_uC20bWT0Rl3ioT_6gN67OG-xXQWPfcvbQ}
+}
+
+
 @inproceedings{parkbridging,
   title={Bridging Vision and Language Spaces with Assignment Prediction},
-  author={Park, Jungin and Lee, Jiyoung and Sohn, Kwanghoon},
+  author={Park, Jungin and Lee*, Jiyoung and Sohn*, Kwanghoon},
   booktitle=ICLR,
   year={2024},
   paper={https://arxiv.org/abs/2404.09632},
-  code={https://github.com/park-jungin/vlap}
+  code={https://github.com/park-jungin/vlap},
+  abbr={Multimodal, Generation}
 }
 
 @inproceedings{seolet,
   title={Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation},
-  author={Seo, Junyoung and Jang, Wooseok and Kwak, Min-Seop and Kim, Hyeonsu and Ko, Jaehoon and Kim, Junho and Kim, Jin-Hwa and Lee, Jiyoung and Kim, Seungryong},
+  author={Seo, Junyoung and Jang, Wooseok and Kwak, Min-Seop and Kim, Hyeonsu and Ko, Jaehoon and Kim, Junho and Kim*, Jin-Hwa and Lee*, Jiyoung and Kim*, Seungryong},
   booktitle=ICLR,
   year={2024},
   paper={https://arxiv.org/abs/2303.07937},
   code={https://github.com/cvlab-kaist/3DFuse},
-  project={https://cvlab-kaist.github.io/3DFuse/}
+  project={https://cvlab-kaist.github.io/3DFuse/},
+  abbr={Multimodal, 3D, Generation}
 }
 
 @inproceedings{heo2023robust,
   title={Robust camera pose refinement for multi-resolution hash encoding},
-  author={Heo, Hwan and Kim, Taekyung and Lee, Jiyoung and Lee, Jaewon and Kim, Soohyun and Kim, Hyunwoo J and Kim, Jin-Hwa},
+  author={Heo, Hwan and Kim, Taekyung and Lee, Jiyoung and Lee, Jaewon and Kim, Soohyun and Kim*, Hyunwoo J and Kim*, Jin-Hwa},
   booktitle=ICML,
   year={2023},
   paper={https://proceedings.mlr.press/v202/heo23a.html},
+  abbr={Vision, 3D, Generation}
+}
+
+@inproceedings{seo2023midms,
+  title={Midms: Matching interleaved diffusion models for exemplar-based image translation},
+  author={Seo, Junyoung and Lee, Gyuseong and Cho, Seokju and Lee, Jiyoung and Kim, Seungryong},
+  booktitle=AAAI,
+  volume={37},
+  number={2},
+  pages={2191--2199},
+  year={2023},
+  paper={https://arxiv.org/abs/2209.11047},
+  project={https://cvlab-kaist.github.io/MIDMs/},
+  code={https://github.com/cvlab-kaist/MIDMs},
+  abbr={Vision, Generation}
+}
+
+@inproceedings{lee2023imaginary,
+  title={Imaginary voice: Face-styled diffusion model for text-to-speech},
+  author={Lee, Jiyoung and Chung, Joon Son and Chung, Soo-Whan},
+  booktitle=ICASSP,
+  pages={1--5},
+  year={2023},
+  organization={IEEE},
+  paper={https://arxiv.org/abs/2302.13700},
+  project={https://facetts.github.io/},
+  code={https://github.com/naver-ai/facetts},
+  abbr={Multimodal, Generation}
+}
+
+@article{kim2023panoramic,
+  title={Panoramic Image-to-Image Translation},
+  author={Kim, Soohyun and Kim, Junho and Kim, Taekyung and Heo, Hwan and Kim*, Seungryong and Lee*, Jiyoung and Kim*, Jin-Hwa},
+  journal={arXiv preprint arXiv:2304.04960},
+  year={2023},
+  abbr={Preprint, Generation},
+  paper={https://arxiv.org/abs/2304.04960}
+}
+
+@article{kim2023semi,
+  title={Semi-parametric video-grounded text generation},
+  author={Kim, Sungdong and Kim, Jin-Hwa and Lee, Jiyoung and Seo, Minjoon},
+  journal={arXiv preprint arXiv:2301.11507},
+  year={2023},
+  abbr={Preprint, Generation},
+  paper={https://arxiv.org/abs/2301.11507}
+}
+
+@inproceedings{kim2023dense,
+  title={Dense text-to-image generation with attention modulation},
+  author={Kim, Yunji and Lee, Jiyoung and Kim, Jin-Hwa and Ha, Jung-Woo and Zhu, Jun-Yan},
+  booktitle=ICCV,
+  pages={7701--7711},
+  year={2023},
+  paper={https://arxiv.org/abs/2308.12964},
+  code={https://github.com/naver-ai/DenseDiffusion},
+  demo={https://github.com/XandrChris/DenseDiffusionColab},
+  abbr={Multimodal, Generation}
+}
+
+@inproceedings{kim2023hierarchical,
+  title={Hierarchical visual primitive experts for compositional zero-shot learning},
+  author={Kim, Hanjae and Lee, Jiyoung and Park, Seongheon and Sohn, Kwanghoon},
+  booktitle=ICCV,
+  pages={5675--5685},
+  year={2023},
+  abbr={Multimodal, CZSL},
+  paper={https://arxiv.org/abs/2308.04016},
+  code={https://github.com/HanjaeKim98/CoT}
+}
+
+@inproceedings{moon2023three,
+  title={Three recipes for better 3d pseudo-gts of 3d human mesh estimation in the wild},
+  author={Moon, Gyeongsik and Choi, Hongsuk and Chun, Sanghyuk and Lee, Jiyoung and Yun, Sangdoo},
+  booktitle=CVPRW,
+  pages={2755--2764},
+  year={2023},
+  project={https://github.com/mks0601/NeuralAnnot_RELEASE},
+  paper={https://arxiv.org/abs/2304.04875},
+  abbr={Vision, Generation}
+}
+
+@inproceedings{park2023dual,
+  title={Dual-path adaptation from image to video transformers},
+  author={Park*, Jungin and Lee*, Jiyoung and Sohn, Kwanghoon},
+  booktitle=CVPR,
+  pages={2203--2213},
+  year={2023},
+  paper={https://arxiv.org/abs/2303.09857},
+  abbr={Vision, Video}
+}
+
+@inproceedings{kim2023language,
+  title={Language-free training for zero-shot video grounding},
+  author={Kim, Dahye and Park, Jungin and Lee, Jiyoung and Park, Seongheon and Sohn, Kwanghoon},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={2539--2548},
+  year={2023},
+  abbr={Vision, Video},
+  paper={https://arxiv.org/abs/2210.12977}
+}
+
+@inproceedings{kim2022pointfix,
+  title={Pointfix: Learning to fix domain bias for robust online stereo adaptation},
+  author={Kim, Kwonyoung and Park, Jungin and Lee, Jiyoung and Min, Dongbo and Sohn, Kwanghoon},
+  booktitle=ECCV,
+  pages={568--585},
+  year={2022},
+  organization={Springer},
+  abbr={Vision, 3D},
+  paper={https://arxiv.org/abs/2207.13340}
+}
+
+@inproceedings{mcduff2022causalcity,
+  title={Causalcity: Complex simulations with agency for causal discovery and reasoning},
+  author={McDuff, Daniel and Song, Yale and Lee, Jiyoung and Vineet, Vibhav and Vemprala, Sai and Gyde, Nicholas Alexander and Salman, Hadi and Ma, Shuang and Sohn, Kwanghoon and Kapoor, Ashish},
+  booktitle={Conference on Causal Learning and Reasoning},
+  pages={559--575},
+  year={2022},
+  organization={PMLR},
+  paper={https://arxiv.org/abs/2106.13364},
+  project={https://causalcity.github.io/}
+}
+
+
+@inproceedings{kim2022mutual,
+  title={Mutual information divergence: A unified metric for multimodal generative models},
+  author={Kim, Jin-Hwa and Kim, Yunji and Lee, Jiyoung and Yoo, Kang Min and Lee, Sang-Woo},
+  booktitle=NeurIPS,
+  volume={35},
+  pages={35072--35086},
+  year={2022},
+  abbr={Multimodal, Generation},
+  paper={https://arxiv.org/abs/2205.13445},
+  code={https://github.com/naver-ai/mid.metric}
+}
+
+@inproceedings{jeong2022multi,
+  title={Multi-domain unsupervised image-to-image translation with appearance adaptive convolution},
+  author={Jeong, Somi and Lee, Jiyoung and Sohn, Kwanghoon},
+  booktitle=ICASSP,
+  pages={1750--1754},
+  year={2022},
+  organization={IEEE},
+  abbr={Vision, Generation},
+  paper={https://arxiv.org/abs/2202.02779}
+}
+
+@inproceedings{kim2022pin,
+  title={Pin the memory: Learning to generalize semantic segmentation},
+  author={Kim, Jin and Lee, Jiyoung and Park, Jungin and Min, Dongbo and Sohn, Kwanghoon},
+  booktitle=CVPR,
+  pages={4350--4360},
+  year={2022},
+  abbr={Vision}
+  paper={https://arxiv.org/abs/2204.03609},
+  code={https://github.com/Genie-Kim/PintheMemory}
+}
+
+@inproceedings{park2022probabilistic,
+  title={Probabilistic representations for video contrastive learning},
+  author={Park, Jungin and Lee, Jiyoung and Kim, Ig-Jae and Sohn, Kwanghoon},
+  booktitle=CVPR,
+  pages={14711--14721},
+  year={2022},
+  abbr={Vision, Video},
+  paper={https://arxiv.org/abs/2204.03946}
+}
+
+@inproceedings{cho2021wide,
+  title={Wide and Narrow: Video Prediction from Context and Motion},
+  author={Cho, Jaehoon and Lee, Jiyoung and Oh, Changjae and Song, Wonil and Sohn, Kwanghoon},
+  booktitle=BMVC,
+  paper={https://arxiv.org/abs/2110.11586},
+  abbr={Vision, Video}
+  year={2021}
+}
+
+@inproceedings{kim2021self,
+  title={Self-balanced learning for domain generalization},
+  author={Kim, Jin and Lee, Jiyoung and Park, Jungin and Min, Dongbo and Sohn, Kwanghoon},
+  booktitle={IEEE international conference on image processing (ICIP)},
+  pages={779--783},
+  year={2021},
+  organization={IEEE},
+  abbr={Vision},
+  paper={https://arxiv.org/abs/2108.13597}
+}
+
+@inproceedings{park2021bridge,
+  title={Bridge to answer: Structure-aware graph interaction network for video question answering},
+  author={Park, Jungin and Lee, Jiyoung and Sohn, Kwanghoon},
+  booktitle=CVPR,
+  pages={15526--15535},
+  year={2021},
+  abbr={Multimodal, Video},
+  paper={https://arxiv.org/abs/2104.14085}
+}
+
+@inproceedings{lee2021looking,
+  title={Looking into your speech: Learning cross-modal affinity for audio-visual speech separation},
+  author={Lee*, Jiyoung and Chung*, Soo-Whan and Kim, Sunok and Kang*, Hong-Goo and Sohn*, Kwanghoon},
+  booktitle=CVPR,
+  pages={1336--1345},
+  year={2021},
+  paper={https://arxiv.org/abs/2104.02775},
+  abbr={Multimodal, AVSS}
+}
+
+@article{lee2020multi,
+  title={Multi-modal recurrent attention networks for facial expression recognition},
+  author={Lee, Jiyoung and Kim, Sunok and Kim, Seungryong and Sohn, Kwanghoon},
+  journal={IEEE Transactions on Image Processing},
+  volume={29},
+  pages={6977--6991},
+  year={2020},
+  publisher={IEEE},
+  abbr={Multimodal, Affective Computing},
+  paper={https://ieeexplore.ieee.org/abstract/document/9102419}
+}
+
+@inproceedings{park2020sumgraph,
+  title={Sumgraph: Video summarization via recursive graph modeling},
+  author={Park*, Jungin and Lee*, Jiyoung and Kim, Ig-Jae and Sohn, Kwanghoon},
+  booktitle=ECCV,
+  pages={647--663},
+  year={2020},
+  organization={Springer},
+  abbr={Vision, Video},
+  paper={https://arxiv.org/abs/2007.08809}
+}
+
+@inproceedings{park2019graph,
+  title={Graph regularization network with semantic affinity for weakly-supervised temporal action localization},
+  author={Park, Jungin and Lee, Jiyoung and Jeon, Sangryul and Kim, Seungryong and Sohn, Kwanghoon},
+  booktitle={IEEE International conference on image processing (ICIP)},
+  pages={3701--3705},
+  year={2019},
+  organization={IEEE},
+  abbr={Vision, Video},
+  paper={https://ieeexplore.ieee.org/document/8803589}
 }
 
 @inproceedings{park2019video,
@@ -101,10 +348,49 @@
   author={Lee, Jiyoung and Kim, Seungryong and Kim, Sunok and Park, Jungin and Sohn*, Kwanghoon},
   booktitle=ICCV,
   year={2019},
-  abbr={Vision},
+  abbr={Vision, Affective Computing},
   paper={https://arxiv.org/abs/1908.05913},
   project={https://caer-dataset.github.io/},
   bibtex_show={true},
+}
+
+@inproceedings{lee2018audio,
+  title={Audio-visual attention networks for emotion recognition},
+  author={Lee, Jiyoung and Kim, Sunok and Kim, Seungryong and Sohn, Kwanghoon},
+  booktitle={Proceedings of the 2018 Workshop on Audio-Visual Scene Understanding for Immersive Multimedia},
+  pages={27--32},
+  year={2018},
+  abbr={Multimodal, Affective Computing}
+}
+
+@inproceedings{park2018learning,
+  title={Learning to detect, associate, and recognize human actions and surrounding scenes in untrimmed videos},
+  author={Park, Jungin and Jeon, Sangryul and Kim, Seungryong and Lee, Jiyoung and Kim, Sunok and Sohn, Kwanghoon},
+  booktitle={Proceedings of the 1st Workshop and Challenge on Comprehensive Video Understanding in the Wild},
+  pages={21--26},
+  year={2018},
+  abbr={Vision, Video}
+}
+
+@inproceedings{lee2018spatiotemporal,
+  title={Spatiotemporal attention based deep neural networks for emotion recognition},
+  author={Lee, Jiyoung and Kim, Sunok and Kiim, Seungryong and Sohn, Kwanghoon},
+  booktitle=ICASSP,
+  pages={1513--1517},
+  year={2018},
+  organization={IEEE},
+  paper={https://ieeexplore.ieee.org/document/8461920},
+  abbr={Vision, Affective Computing}
+}
+
+@inproceedings{lee2017automatic,
+  title={Automatic 2d-to-3d conversion using multi-scale deep neural network},
+  author={Lee, Jiyoung and Jung, Hyungjoo and Kim, Youngjung and Sohn, Kwanghoon},
+  booktitle={IEEE International Conference on Image Processing (ICIP)},
+  pages={730--734},
+  year={2017},
+  organization={IEEE},
+  abbr={Vision, 3D}
 }
 
 
