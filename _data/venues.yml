@@ -1,9 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Multimodal":
   color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
+  
 "Vision":
   color: "#009f36"
+
+"Generation":
+  color: "#B4D7A8"
+
+"Audio":
+  color: "#E6B8AF"
+
+"3D":
+  color: "#F9CB9C"
