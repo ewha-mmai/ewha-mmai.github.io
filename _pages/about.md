@@ -18,6 +18,37 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<div id="image-slider" class="carousel slide my-4" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#image-slider" data-slide-to="0" class="active"></li>
+    <li data-target="#image-slider" data-slide-to="1"></li>
+    <li data-target="#image-slider" data-slide-to="2"></li>
+  </ol>
+
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ 'assets/img/project_preview/Slide1.png' | relative_url }}" class="d-block w-100" alt="Slide 1">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ 'assets/img/project_preview/Slide2.png' | relative_url }}" class="d-block w-100" alt="Slide 2">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ 'assets/img/project_preview/Slide3.png' | relative_url }}" class="d-block w-100" alt="Slide 3">
+    </div>
+  </div>
+
+  <a class="carousel-control-prev" href="#image-slider" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#image-slider" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
 <b style="color: green">Multimodal AI Lab @ EWHA</b> focuses on developing robust and generalizable AI models that understand and generate information across multiple modalities—vision, language, and audio. 
 Our research spans multimodal generation, large audiovisual/vision-language models, video understanding, 3D perception, and cross-modal grounding. 
 We build multimodal systems that learn with minimal supervision and perform reliably in diverse, real-world settings.
