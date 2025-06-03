@@ -28,23 +28,32 @@ latest_posts:
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ 'assets/img/project_preview/Slide1.png' | relative_url }}" class="d-block w-100" alt="Slide 1">
+      <img src="{{ 'assets/img/project_preview/Slide1.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 1">
     </div>
     <div class="carousel-item">
-      <img src="{{ 'assets/img/project_preview/Slide2.png' | relative_url }}" class="d-block w-100" alt="Slide 2">
+      <img src="{{ 'assets/img/project_preview/Slide2.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 2">
     </div>
     <div class="carousel-item">
-      <img src="{{ 'assets/img/project_preview/Slide3.png' | relative_url }}" class="d-block w-100" alt="Slide 3">
+      <img src="{{ 'assets/img/project_preview/Slide3.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 3">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ 'assets/img/project_preview/Slide4.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 4">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ 'assets/img/project_preview/Slide5.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 5">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ 'assets/img/project_preview/Slide6.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 6">
     </div>
   </div>
 
   <a class="carousel-control-prev" href="#image-slider" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
+    <span class="sr-only" style="color: black"><</span>
   </a>
   <a class="carousel-control-next" href="#image-slider" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
+    <span class="sr-only" style="color: black">></span>
   </a>
 </div>
 
