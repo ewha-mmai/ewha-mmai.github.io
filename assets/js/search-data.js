@@ -91,11 +91,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "students-dahyun-choi",
-          title: 'Dahyun Choi',
-          description: "Audio Generative Model, Multimodal Learning, Edge AI for Mobility",
-          section: "Students",handler: () => {
-              window.location.href = "/students/dahyun_choi/";
             },},{id: "students-eunji-shin",
           title: 'Eunji Shin',
           description: "Multimodal Generation",
