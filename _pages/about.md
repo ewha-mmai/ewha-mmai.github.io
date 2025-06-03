@@ -65,7 +65,7 @@ We aim to push the boundaries of multimodal learning and create AGI that is crea
 
 
 **Recruiting Undergraduate Interns/ Graduate Students**:
-We are looking for undergraduate interns, and graduate students to collaborate with! 
+We are looking for undergraduate interns, and graduate students to research with! 
 If you are interested in doing cool multimodal learning research, please send your CV and GPA to <a href="mailto:lee.jiyoung@ewha.ac.kr"><i class="fa-solid fa-envelope"></i></a>.
 
 &nbsp;
