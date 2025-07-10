@@ -116,6 +116,11 @@ ninja.data = [{
           description: "Vision Language Model, Multimodal Generation",
           section: "Students",handler: () => {
               window.location.href = "/students/myungjin_lee/";
+            },},{id: "students-yoonhyung-park",
+          title: 'Yoonhyung Park',
+          description: "Computer Vision, Vision-Tactile Multimodal Learning",
+          section: "Students",handler: () => {
+              window.location.href = "/students/yoonhyung_park/";
             },},{id: "students-yunjin-song",
           title: 'YunJin Song',
           description: "Vision Language Model",
