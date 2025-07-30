@@ -89,6 +89,10 @@ If you are interested in doing cool multimodal learning research, please send yo
   <div class="table-responsive" style="max-height: 60vw">
   <table class="table table-sm table-borderless">
     <tr>
+        <th scope="row" style="width: 20%"> Jun 2024 </th>
+        <td> One paper is accepted in <b>International Journal of Computer Vision (IJCV) [Q1]</b>! 🎉 </td>
+    </tr>
+    <tr>
         <th scope="row" style="width: 20%"> Apr 2025 </th>
         <td> <b style="color: green">Multimodal AI Lab @ EWHA</b> website is now open! 👋 </td>
     </tr>
