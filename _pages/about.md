@@ -89,8 +89,8 @@ If you are interested in doing cool multimodal learning research, please send yo
   <div class="table-responsive" style="max-height: 60vw">
   <table class="table table-sm table-borderless">
     <tr>
-        <th scope="row" style="width: 20%"> Jun 2024 </th>
-        <td> One paper is accepted in <b>International Journal of Computer Vision (IJCV) [Q1]</b>! 🎉 </td>
+        <th scope="row" style="width: 20%"> Jul 2025 </th>
+        <td> One paper is accepted in <b>International Journal of Computer Vision (IJCV) [Q1, IF:9.3]</b>! 🎉 </td>
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Apr 2025 </th>
@@ -122,7 +122,7 @@ If you are interested in doing cool multimodal learning research, please send yo
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Sep 2024 </th>
-        <td> One paper is accepted in <b>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) [Q1]</b>! 🎉 </td>
+        <td> One paper is accepted in <b>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) [Q1, IF:20.8]</b>! 🎉 </td>
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Sep 2024 </th>
@@ -130,7 +130,7 @@ If you are interested in doing cool multimodal learning research, please send yo
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Jun 2024 </th>
-        <td> One paper is accepted in <b>Pattern Recognition (PR) [Q1]</b>! 🎉 </td>
+        <td> One paper is accepted in <b>Pattern Recognition (PR) [Q1, IF:7.5]</b>! 🎉 </td>
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Jan 2024 </th>
