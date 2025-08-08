@@ -89,6 +89,10 @@ If you are interested in doing cool multimodal learning research, please send yo
   <div class="table-responsive" style="max-height: 60vw">
   <table class="table table-sm table-borderless">
     <tr>
+        <th scope="row" style="width: 20%"> Aug 2025 </th>
+        <td> One paper is accepted at <b>ICCV Workshop@Gen4AVC</b>! 🎉 </td>
+    </tr>
+    <tr>
         <th scope="row" style="width: 20%"> Jul 2025 </th>
         <td> One paper is accepted in <b>International Journal of Computer Vision (IJCV) [Q1, IF:9.3]</b>! 🎉 </td>
     </tr>
