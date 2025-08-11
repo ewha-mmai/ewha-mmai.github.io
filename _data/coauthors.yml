@@ -6,6 +6,9 @@
   - firstname: ["Jungin"]
     url: https://park-jungin.github.io/
 
+  - firstname: ["Song"]
+    url: https://8uos.github.io/
+
 "sohn":
   - firstname: ["Kwanghoon"]
     url: https://diml.yonsei.ac.kr/professor/
@@ -26,6 +29,10 @@
 "chun":
   - firstname: ["Sanghyuk"]
     url: https://sanghyukchun.github.io/home/
+
+"chung":
+  - firstname: ["Soo-Whan"]
+    url: https://soowhanchung.github.io/
 
 "jeong":
   - firstname: ["Yujin"]
