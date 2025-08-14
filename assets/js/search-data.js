@@ -121,11 +121,6 @@ ninja.data = [{
           description: "Computer Vision, Vision-Tactile Multimodal Learning",
           section: "Students",handler: () => {
               window.location.href = "/students/yoonhyung_park/";
-            },},{id: "students-yunjin-song",
-          title: 'YunJin Song',
-          description: "Vision Language Model",
-          section: "Students",handler: () => {
-              window.location.href = "/students/yunjin_song/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
