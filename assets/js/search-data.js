@@ -4,17 +4,24 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
-          description: "$^\star$ equal contribution",
+          title: "Publications",
+          description: "$^\star$ equal contribution, $^\dagger$ corresponding author(s)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Explore the journey of our lab’s projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "dropdown-faculty",
               title: "Faculty",
@@ -46,79 +53,49 @@ ninja.data = [{
           section: "News",},{id: "news-multimodal-ai-lab-ewha-website-is-now-open",
           title: 'Multimodal AI Lab @ EWHA website is now open!👋',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-omnimodal-generative-xai-with-affective-and-social-intelligence-fast-omnimodal-dialogue-generation-for-explainable-robot-understanding",
+          title: 'Omnimodal Generative XAI with Affective and Social Intelligence, Fast Omnimodal Dialogue Generation for...',
+          description: "PI, 국가아젠다 기초연구 [2025.09-2028.08], National Research Foundation (NRF) of Korea",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/agenda_project/";
+            },},{id: "projects-human-centered-artificial-intelligence-research-institute",
+          title: 'Human-Centered Artificial Intelligence Research Institute',
+          description: "Researcher, G-LAMP (대학기초연구소) [2025.09-2030.08], Ministry of Education",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/glamp_project/";
+            },},{id: "projects-development-of-multi-modal-intelligent-360-degree-environment-recognition-and-lightweight-technology",
+          title: 'Development of multi-modal intelligent 360-degree environment recognition and lightweight technology',
+          description: "Researcher, LIG [2025.07-2026.12]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/lig_project/";
             },},{id: "students-eunji-shin",
-          title: 'Eunji Shin',
-          description: "Multimodal Generation",
+          title: 'Eunji_shin',
+          description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/eunji_shin/";
             },},{id: "students-eunsang-lee",
-          title: 'Eunsang Lee',
-          description: "Computer Vision, Audio Generation",
+          title: 'Eunsang_lee',
+          description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/eunsang_lee/";
             },},{id: "students-hyemin-boo",
-          title: 'Hyemin Boo',
-          description: "Vision Language Model, Generative Model",
+          title: 'Hyemin_boo',
+          description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/hyemin_boo/";
             },},{id: "students-jeonghyeon-joo",
-          title: 'Jeonghyeon Joo',
-          description: "Visual Document Understanding, Multimodal Learning, Audiovisual Reasoning",
+          title: 'Jeonghyeon_joo',
+          description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/jeonghyeon_joo/";
             },},{id: "students-myungjin-lee",
-          title: 'Myungjin Lee',
-          description: "Vision Language Model, Multimodal Generation",
+          title: 'Myungjin_lee',
+          description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/myungjin_lee/";
             },},{id: "students-yoonhyung-park",
-          title: 'Yoonhyung Park',
-          description: "Computer Vision, Vision-Tactile Multimodal Learning",
+          title: 'Yoonhyung_park',
+          description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/yoonhyung_park/";
             },},{
