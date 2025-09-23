@@ -93,6 +93,11 @@ ninja.data = [{
           description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/myungjin_lee/";
+            },},{id: "students-new",
+          title: 'New',
+          description: "",
+          section: "Students",handler: () => {
+              window.location.href = "/students/new/";
             },},{id: "students-yoonhyung-park",
           title: 'Yoonhyung_park',
           description: "",
