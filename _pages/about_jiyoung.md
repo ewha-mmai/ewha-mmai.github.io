@@ -16,7 +16,7 @@ Research Scientist in NAVER AI Lab, Seongnam, Republic of Korea (2021.12 - 2025.
 
 Research Intern in Adobe Research, USA (2021.06 - 2021.11)
 
-Student Co-worker (INTERNSHiP CANCELED BY COVID19) in Microsoft Research, USA (2020.04 - 2021.02)
+Student Co-worker (INTERNSHIP CANCELED BY COVID19) in Microsoft Research, USA (2020.04 - 2021.02)
 
 &nbsp;
 

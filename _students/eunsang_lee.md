@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Eunsang Lee
-description: Computer Vision, Audio Generation
-img: /assets/img/eunsang_lee.jpg
+name: Eunsang Lee
+interests: Multimodal Learning
+photo: /assets/img/eunsang_lee.jpg
 category: undergraduate
 redirect:  
 tabs: false
+email: leeeunsang@ewha.ac.kr 
 ---

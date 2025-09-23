@@ -197,7 +197,7 @@ exclude:
   - _pages/cv.md
   - _pages/blog.md
   - _pages/repositories.md
-  - _pages/projects.md
+  - _pages/old_projects.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -270,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Lee]
-  first_name: [Jiyoung]
+  last_name:
+  first_name:
 
   style: apa
   locale: en

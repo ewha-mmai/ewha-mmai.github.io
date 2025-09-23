@@ -7,6 +7,9 @@
         {%- for abbr in entry.abbr -%}
           {%- if site.data.venues[abbr] -%}
             {% assign venue_style = null %}
+
+            
+
             {% if site.data.venues[abbr].color != blank %}
               {% assign venue_style = site.data.venues[abbr].color | prepend: 'style="background-color:' | append: '"' %}
             {%- endif -%}
@@ -49,6 +52,7 @@
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
+    
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -264,6 +268,17 @@
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
     </div>
+    <!-- Tag -->
+    {% if entry.tags %}
+      {% assign taglist = entry.tags | replace: ';', ',' | split: ',' %}
+      <div class="pub-tags">
+        {% for t in taglist %}
+          <span class="pub-tag">{{ t }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}

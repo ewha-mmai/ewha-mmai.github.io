@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Hyemin Boo
-description: Vision Language Model, Generative Model
-img: /assets/img/hyemin_boo.JPG
+name: Hyemin Boo
+interests: Multimodal Learning, Robotics, Autonomous Systems
+photo: /assets/img/hyemin_boo.JPG
 category: undergraduate
 redirect:  
 tabs: false
+email: hyeminb@ewha.ac.kr
 ---

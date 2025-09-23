@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Yoonhyung Park
-description: Computer Vision, Vision-Tactile Multimodal Learning
-img: /assets/img/yoonhyung_park.jpg
+name: Yoonhyung Park
+interests: Computer Vision, Vision-Tactile Multimodal Learning
+photo: /assets/img/yoonhyung_park.jpg
 category: undergraduate
 redirect:  
 tabs: false
+email: 
 ---

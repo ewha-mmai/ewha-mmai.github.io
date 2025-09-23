@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='[#](https://ai.ewha.ac.kr/deptai/index.do)'>Dept. of AI, Ewha Womans University</a>. Seoul, Korea.
 
@@ -71,14 +71,14 @@ latest_posts:
 </div>
 
 
-<b style="color: green">Multimodal AI Lab @ EWHA</b> focuses on developing robust and generalizable AI models that understand and generate information across multiple modalities—vision, language, and audio. 
+<b style="color: green">Multimodal AI Lab @ EWHA (PI: Jiyoung Lee)</b> focuses on developing robust and generalizable AI models that understand and generate information across multiple modalities—vision, language, and audio. 
 Our research spans multimodal generation, large audiovisual/vision-language models, video understanding, 3D perception, and cross-modal grounding. 
 We build multimodal systems that learn with minimal supervision and perform reliably in diverse, real-world settings.
 We aim to push the boundaries of multimodal learning and create AGI that is creative, effective, and efficient.
 
 
-**Recruiting Undergraduate Interns/ Graduate Students**:
-We are looking for undergraduate interns, and graduate students to research with! 
+**Recruiting Undergraduate Interns/ Graduate Students / Postdoctoral Researchers**:
+We are looking for undergraduate interns, graduate students, and postdoctoral researchers to research with! 
 If you are interested in doing cool multimodal learning research, please send your CV and GPA to <a href="mailto:lee.jiyoung@ewha.ac.kr"><i class="fa-solid fa-envelope"></i></a>.
 
 &nbsp;
