@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Hyemin Boo
-interests: Multimodal Learning, Robotics, Autonomous Systems
+interests: Multimodal Learning
 photo: /assets/img/hyemin_boo.JPG
 category: undergraduate
 redirect:  

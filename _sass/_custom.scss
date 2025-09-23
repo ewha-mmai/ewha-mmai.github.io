@@ -44,6 +44,8 @@
   background: var(--global-bg); /* al-folio 변수 사용 시 자연스럽게 다크모드 대응 */
   border: 3px solid var(--global-divider);
   transition: transform 0.15s ease;
+  margin: 10px;
+  margin-top: 30px;
 }
 .student-card:hover {
   transform: translateY(-3px);
