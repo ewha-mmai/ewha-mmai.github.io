@@ -58,14 +58,19 @@ ninja.data = [{
           description: "PI, 국가아젠다 기초연구 [2025.09-2028.08], National Research Foundation (NRF) of Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/agenda_project/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bk_project/";
             },},{id: "projects-human-centered-artificial-intelligence-research-institute",
           title: 'Human-Centered Artificial Intelligence Research Institute',
-          description: "Researcher, G-LAMP (대학기초연구소) [2025.09-2030.08], Ministry of Education",
+          description: "G-LAMP (대학기초연구소) [2025.09-2030.08], Ministry of Education",
           section: "Projects",handler: () => {
               window.location.href = "/projects/glamp_project/";
             },},{id: "projects-development-of-multi-modal-intelligent-360-degree-environment-recognition-and-lightweight-technology",
           title: 'Development of multi-modal intelligent 360-degree environment recognition and lightweight technology',
-          description: "Researcher, LIG [2025.07-2026.12]",
+          description: "Researcher, LIG Nex1 [2025.07-2026.12]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lig_project/";
             },},{id: "students-eunji-shin",
