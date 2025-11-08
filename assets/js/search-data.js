@@ -58,9 +58,9 @@ ninja.data = [{
           description: "PI, 국가아젠다 기초연구 [2025.09-2028.08], National Research Foundation (NRF) of Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/agenda_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-true-ai-trustworthy-and-resource-efficient-unified-evolving-ai",
+          title: 'TRUE-AI: Trustworthy and Resource-efficient Unified Evolving AI',
+          description: "4단계 BK21 사업 [2025.09-2027.08], Ministry of Education",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bk_project/";
             },},{id: "projects-human-centered-artificial-intelligence-research-institute",
