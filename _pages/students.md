@@ -5,7 +5,7 @@ title: Students
 description: in Multimodal AI Lab @ EWHA
 nav: false
 nav_order: 4
-display_categories: [graduate, undergraduate]
+display_categories: [Postdoc, Graduate, Undergraduate]
 horizontal: true
 ---
 
@@ -21,12 +21,12 @@ horizontal: true
       {% assign categorized_students = site.students | where: "category", category %}
       {% assign sorted_students = categorized_students | sort: "importance" %}
 
-      <div class="container">
+      <div class="container-fluid px-1">
         <div class="row g-4">
           {% for s in sorted_students %}
-          <div class="col-12 col-md-6">
-            <div class="student-card d-flex p-3 rounded shadow-sm">
-              <div class="student-photo-wrap me-3">
+          <div class="col-6 col-md-6">
+            <div class="student-card d-flex p-1 rounded shadow-sm">
+              <div class="student-photo-wrap me-1">
                 <img src="{{ s.photo | relative_url }}" alt="{{ s.name }}" class="student-photo">
               </div>
               <div class="flex-grow-1">

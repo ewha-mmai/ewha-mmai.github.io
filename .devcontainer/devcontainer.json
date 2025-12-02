@@ -28,5 +28,7 @@
     }
   },
 
-  "remoteUser": "vscode"
+  "remoteUser": "vscode",
+
+  "postStartCommand": "npm run dev:open"
 }

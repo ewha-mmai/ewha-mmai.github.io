@@ -3,7 +3,7 @@ layout: page
 name: Yoonhyung Park
 interests: Multimodal Learning
 photo: /assets/img/yoonhyung_park.jpg
-category: undergraduate
+category: Undergraduate
 redirect:  
 tabs: false
 email: pyoon820@gmail.com

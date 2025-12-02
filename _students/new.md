@@ -2,7 +2,7 @@
 layout: page
 name: This could be you !
 photo: /assets/img/new.png
-category: graduate
+category: Graduate
 redirect:  
 tabs: false
 ---
