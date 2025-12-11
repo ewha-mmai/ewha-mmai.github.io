@@ -72,11 +72,20 @@
           {% endif %}
         {%- endif -%}
         {% assign coauthor_url = null %}
+        {% assign coauthor_member = null %} 
         {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
-        {% if site.data.coauthors[clean_last_name] %}
+        {% comment %} {% if site.data.coauthors[clean_last_name] %}
           {%- for coauthor in site.data.coauthors[clean_last_name] -%}
             {% if coauthor.firstname contains author.first %}
               {%- assign coauthor_url = coauthor.url -%}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {%- endif -%} {% endcomment %}
+        {% if site.data.members[clean_last_name] %}
+          {%- for coauthor in site.data.members[clean_last_name] -%}
+            {% if coauthor.firstname contains author.first %}
+              {%- assign coauthor_member = true -%}
               {% break %}
             {% endif %}
           {% endfor %}
@@ -97,6 +106,11 @@
               {{- author.first }}
               {{ author_last_html -}}
             </a>
+          {%- elsif coauthor_member -%}
+            <strong>
+              {{- author.first }}
+              {{ author_last_html -}}
+            </strong>
           {%- else -%}
             {{- author.first }}
             {{ author_last_html -}}
