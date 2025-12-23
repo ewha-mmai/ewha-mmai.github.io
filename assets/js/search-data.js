@@ -113,6 +113,16 @@ ninja.data = [{
           description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/sungwon_moon/";
+            },},{id: "students-taein-ju",
+          title: 'Taein_ju',
+          description: "",
+          section: "Students",handler: () => {
+              window.location.href = "/students/taein_ju/";
+            },},{id: "students-yeongeun-byeon",
+          title: 'Yeongeun_byeon',
+          description: "",
+          section: "Students",handler: () => {
+              window.location.href = "/students/yeongeun_byeon/";
             },},{id: "students-yoonhyung-park",
           title: 'Yoonhyung_park',
           description: "",
