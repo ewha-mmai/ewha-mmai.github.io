@@ -32,6 +32,9 @@ latest_posts:
 
 <div class="carousel-inner">
     <div class="carousel-item active">
+        <img src="{{ 'assets/img/lab_photos/group_260108.jpg' | relative_url }}" class="d-block w-100" alt="Group Photo 1">
+    </div>
+    <div class="carousel-item">
         <img src="{{ 'assets/img/project_preview/Slide1.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 1">
     </div>
     <div class="carousel-item">
@@ -48,9 +51,6 @@ latest_posts:
     </div>
     <div class="carousel-item">
         <img src="{{ 'assets/img/project_preview/Slide6.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 6">
-    </div>
-    <div class="carousel-item">
-        <img src="{{ 'assets/img/lab_photos/group_260108.jpg' | relative_url }}" class="d-block w-100" alt="Group Photo 1">
     </div>
 </div>
 
