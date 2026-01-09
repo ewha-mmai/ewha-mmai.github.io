@@ -27,6 +27,7 @@ latest_posts:
     <li data-target="#image-slider" data-slide-to="3"></li>
     <li data-target="#image-slider" data-slide-to="4"></li>
     <li data-target="#image-slider" data-slide-to="5"></li>
+    <li data-target="#image-slider" data-slide-to="6"></li>
   </ol>
 
 <div class="carousel-inner">
@@ -47,6 +48,9 @@ latest_posts:
     </div>
     <div class="carousel-item">
         <img src="{{ 'assets/img/project_preview/Slide6.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 6">
+    </div>
+    <div class="carousel-item">
+        <img src="{{ 'assets/img/lab_photos/group_260108.jpg' | relative_url }}" class="d-block w-100" alt="Group Photo 1">
     </div>
 </div>
 
