@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://ewha-mmai.github.io/sitemap.xml
+Sitemap: https://ewha-mil.github.io/sitemap.xml
