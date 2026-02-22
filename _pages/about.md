@@ -94,6 +94,10 @@ If you are interested in doing cool multimodal learning research, please send yo
   <table class="table table-sm table-borderless">
     <tr>
         <th scope="row" style="width: 20%"> Jan 2026 </th>
+        <td> One paper is accepted at <b>CVPR</b> 2026! 🎉 </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> Jan 2026 </th>
         <td> Two papers are accepted at <b>ICASSP</b> 2026! 🎉 </td>
     </tr>
     <tr>

@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-Conference: <b>26</b>, Journal: <b>4</b>, Workshop: <b>6</b>, Preprint: <b>5</b>
+Conference: <b>29</b>, Journal: <b>4</b>, Workshop: <b>6</b>, Preprint: <b>4</b>
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
