@@ -93,7 +93,7 @@ If you are interested in doing cool multimodal learning research, please send yo
   <div class="table-responsive" style="max-height: 60vw">
   <table class="table table-sm table-borderless">
     <tr>
-        <th scope="row" style="width: 20%"> Jan 2026 </th>
+        <th scope="row" style="width: 20%"> Feb 2026 </th>
         <td> One paper is accepted at <b>CVPR</b> 2026! 🎉 </td>
     </tr>
     <tr>
