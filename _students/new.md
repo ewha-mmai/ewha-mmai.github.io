@@ -5,4 +5,5 @@ photo: /assets/img/new.png
 category: Graduate
 redirect:  
 tabs: false
+importance: 100
 ---

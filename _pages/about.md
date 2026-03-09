@@ -11,7 +11,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 7 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -28,29 +28,41 @@ latest_posts:
     <li data-target="#image-slider" data-slide-to="4"></li>
     <li data-target="#image-slider" data-slide-to="5"></li>
     <li data-target="#image-slider" data-slide-to="6"></li>
+    <li data-target="#image-slider" data-slide-to="7"></li>
+    <li data-target="#image-slider" data-slide-to="8"></li>
+    <li data-target="#image-slider" data-slide-to="9"></li>
   </ol>
 
 <div class="carousel-inner">
     <div class="carousel-item active">
-        <img src="{{ 'assets/img/lab_photos/group_260108.jpg' | relative_url }}" class="d-block w-100" alt="Group Photo 1">
+        <img src="{{ 'assets/img/project_preview/groupphoto.jpg' | relative_url }}" class="d-block w-100" alt="Group Photo 1">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide1.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 1">
+        <img src="{{ 'assets/img/project_preview/cvpr26.jpg' | relative_url }}" class="d-block w-100" alt="Slide 1">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide2.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 2">
+        <img src="{{ 'assets/img/project_preview/icassp2601.jpg' | relative_url }}" class="d-block w-100" alt="Slide 2">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide3.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 3">
+        <img src="{{ 'assets/img/project_preview/icassp2602.jpg' | relative_url }}" class="d-block w-100" alt="Slide 3">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide4.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 4">
+        <img src="{{ 'assets/img/project_preview/Slide1.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 4">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide5.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 5">
+        <img src="{{ 'assets/img/project_preview/Slide2.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 5">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide6.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 6">
+        <img src="{{ 'assets/img/project_preview/Slide3.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 6">
+    </div>
+    <div class="carousel-item">
+        <img src="{{ 'assets/img/project_preview/Slide4.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 7">
+    </div>
+    <div class="carousel-item">
+        <img src="{{ 'assets/img/project_preview/Slide5.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 8">
+    </div>
+    <div class="carousel-item">
+        <img src="{{ 'assets/img/project_preview/Slide6.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 9">
     </div>
 </div>
 
@@ -75,8 +87,8 @@ latest_posts:
 </div>
 
 
-<b style="color: green">Multimodal AI Lab @ EWHA (PI: Jiyoung Lee)</b> focuses on developing robust and generalizable AI models that understand and generate information across multiple modalities—vision, language, and audio. 
-Our research spans multimodal generation, large audiovisual/vision-language models, video understanding, 3D perception, and cross-modal grounding. 
+<b style="color: green">Multimodal AI Lab @ EWHA (PI: Jiyoung Lee)</b> focuses on developing robust and generalizable AI models that reason and generate information across multiple modalities—vision, audio, language, and robotics. 
+Our research spans multimodal large language models (MLLMs), agentic systems, robotics, multimodal generation, video understanding, 3D perception, cross-modal grounding, but not limited to. 
 We build multimodal systems that learn with minimal supervision and perform reliably in diverse, real-world settings.
 We aim to push the boundaries of multimodal learning and create AGI that is creative, effective, and efficient.
 

@@ -7,4 +7,6 @@ category: Graduate
 redirect:  
 tabs: false
 email: joojeonghyeon@ewha.ac.kr
+importance: 1
+semester: M.S. Student
 ---

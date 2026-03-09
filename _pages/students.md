@@ -50,7 +50,11 @@ horizontal: true
                     </ul>
                   </div>
                 {% endif %}
-
+                {% if s.semester %}
+                  <div>
+                    <div><strong>{{ s.semester }}</strong></div>
+                  </div>
+                {% endif %}
                 {% if s.interests %}
                   <div>
                     <strong>Research Interests</strong>
