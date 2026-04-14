@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-In the AI field, as opposed to many other disciplines, papers published in top conferences (CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML and AAAI) are regarded as more important and influential than most SCI journals in general. For example, **CVPR is the 2nd rank among all academic fields** according to google scholar metrics. 
+In the AI field, as opposed to many other disciplines, papers published in top conferences (CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, and ICASSP) are regarded as more important and influential than most SCI journals in general. For example, **CVPR is the 2nd rank among all academic fields** according to google scholar metrics. 
 
 Conference: <b>29</b>, Journal: <b>4</b>, Workshop: <b>6</b>, Preprint: <b>4</b>
 <!-- Bibsearch Feature -->
