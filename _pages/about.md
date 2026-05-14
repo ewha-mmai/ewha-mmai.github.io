@@ -106,6 +106,14 @@ If you are interested in doing cool multimodal learning research, please send yo
   <table class="table table-sm table-borderless">
     <tr>
         <th scope="row" style="width: 20%"> May 2026 </th>
+        <td> Prof. Jiyoung Lee serves as an Area Chair at <b>NeurIPS</b> 2026. </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> May 2026 </th>
+        <td> Prof. Jiyoung Lee received a Silver Reviewer Award at <b>ICML</b> 2026! 🎉 </td>
+    </tr>
+    <tr>
+        <th scope="row" style="width: 20%"> May 2026 </th>
         <td> Two papers are accepted at <b>ICML</b> 2026! 🎉 </td>
     </tr>
     <tr>
