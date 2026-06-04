@@ -73,11 +73,6 @@ ninja.data = [{
           description: "Researcher, LIG Nex1 [2025.07-2026.12]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lig_project/";
-            },},{id: "students-eunji-shin",
-          title: 'Eunji_shin',
-          description: "",
-          section: "Students",handler: () => {
-              window.location.href = "/students/eunji_shin/";
             },},{id: "students-eunsang-lee",
           title: 'Eunsang_lee',
           description: "",
