@@ -7,6 +7,7 @@ category: Graduate
 redirect:  
 tabs: false
 email: lmjin@ewha.ac.kr
+homepage: https://myjinlee.github.io/
 importance: 2
 semester: M.S./Ph.D Student
 ---

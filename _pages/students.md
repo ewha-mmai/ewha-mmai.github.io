@@ -30,14 +30,8 @@ horizontal: true
                 <img src="{{ s.photo | relative_url }}" alt="{{ s.name }}" class="student-photo">
               </div>
               <div class="flex-grow-1">
-                <h3 class="h5 mb-1 d-flex align-items-center">
-                  {{ s.name }} 
-                  {% if s.email %}
-                    &nbsp;
-                    <a href="mailto:{{ s.email }}" title="{{ s.email }}" class="ms-2">
-                      <i class="fas fa-envelope"></i>
-                    </a>
-                  {% endif %}
+                <h3 class="h5 mb-1">
+                  {{ s.name }}
                 </h3>
 
                 {% if s.education %}
@@ -59,6 +53,20 @@ horizontal: true
                   <div>
                     <strong>Research Interests</strong>
                     <div>{{ s.interests }}</div>
+                  </div>
+                {% endif %}
+                {% if s.email or s.homepage %}
+                  <div class="mt-2 d-flex" style="gap: 0.75rem;">
+                    {% if s.email %}
+                      <a href="mailto:{{ s.email }}" title="{{ s.email }}">
+                        <i class="fas fa-envelope"></i>
+                      </a>
+                    {% endif %}
+                    {% if s.homepage %}
+                      <a href="{{ s.homepage }}" target="_blank" title="Homepage">
+                        <i class="ti ti-home"></i>
+                      </a>
+                    {% endif %}
                   </div>
                 {% endif %}
               </div>

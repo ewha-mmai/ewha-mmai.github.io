@@ -1,0 +1,28 @@
+- date: "2026.06.03-2026.06.07"
+  caption: "CVPR 2026, June 2026"
+  photos:
+    - lab_photos/2606_cvpr_1.JPG
+    - lab_photos/2606_cvpr_2.JPG
+    - lab_photos/2606_cvpr_3.JPG
+
+- date: "2026.05.04-2026.05.08"
+  caption: "ICASSP 2026, May 2026"
+  photos:
+    - lab_photos/icassp.JPG
+
+- date: "2026.02.04-2026.02.06"
+  caption: "제주도 MT, February 2026"
+  photos:
+    - lab_photos/2602_jeju_1.JPG
+    - lab_photos/2602_jeju_2.JPG
+    - lab_photos/2602_jeju_3.JPG
+
+- date: "2026.01.19"
+  caption: "Lab dinner, January 2026"
+  photos:
+    - lab_photos/260119_lab_dinner.PNG
+
+- date: "2025.08.03-2025.08.06"
+  caption: "KCCV 2025 Workshop, August 2025"
+  photos:
+    - lab_photos/250803_kccv.JPG
