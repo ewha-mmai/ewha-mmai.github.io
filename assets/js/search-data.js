@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-gallery",
+          title: "Gallery",
+          description: "Photos from Multimodal AI Lab @ EWHA",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
+          },
         },{id: "dropdown-faculty",
               title: "Faculty",
               description: "",
