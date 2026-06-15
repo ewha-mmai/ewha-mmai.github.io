@@ -1,4 +1,4 @@
-### About Me
+ㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱ### About Me
 I am an assistant professor of the <a href="https://ai.ewha.ac.kr/deptai/index.do">Department of AI</a> at Ewha Womans University. 
 Before joining Ewha Womans University, I was a research scientist at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab">NAVER AI Lab</a> from Dec. 2021 to Feb. 2025. 
 I received PhD from Yonsei University, advised by <a href="https://diml.yonsei.ac.kr/professor/">Prof. Kwanghoon Sohn</a>. 
@@ -21,6 +21,9 @@ Student Co-worker (INTERNSHIP CANCELED BY COVID19) in Microsoft Research, USA (2
 &nbsp;
 
 ### Professional Activities
+Area chair
+- The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)
+
 Program committee
 - The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
   
