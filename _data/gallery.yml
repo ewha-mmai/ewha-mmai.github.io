@@ -1,14 +1,16 @@
 - date: "2026.06.03-2026.06.07"
   caption: "CVPR 2026, June 2026"
   photos:
-    - lab_photos/2606_cvpr_1.JPG
+    - lab_photos/2606_cvpr_1.jpg
     - lab_photos/2606_cvpr_2.JPG
     - lab_photos/2606_cvpr_3.JPG
 
 - date: "2026.05.04-2026.05.08"
   caption: "ICASSP 2026, May 2026"
   photos:
-    - lab_photos/icassp.JPG
+    - lab_photos/2605_icassp_1.jpg
+    - lab_photos/2605_icassp_2.jpeg
+    - lab_photos/2605_icassp_3.jpg
 
 - date: "2026.02.04-2026.02.06"
   caption: "제주도 MT, February 2026"
