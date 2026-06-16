@@ -1,4 +1,6 @@
+
 ### About Me
+
 I am an assistant professor of the <a href="https://ai.ewha.ac.kr/deptai/index.do">Department of AI</a> at Ewha Womans University. 
 Before joining Ewha Womans University, I was a research scientist at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab">NAVER AI Lab</a> from Dec. 2021 to Feb. 2025. 
 I received PhD from Yonsei University, advised by <a href="https://diml.yonsei.ac.kr/professor/">Prof. Kwanghoon Sohn</a>. 
