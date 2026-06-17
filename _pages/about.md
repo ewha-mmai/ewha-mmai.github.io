@@ -110,7 +110,7 @@ If you are interested in doing cool multimodal learning research, please apply v
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> May 2026 </th>
-        <td> Prof. Jiyoung Lee serves as an Area Chair at <b>NeurIPS</b> 2026! 🎉 </td>
+        <td> Prof. Jiyoung Lee serves as an Area Chair at <b>NeurIPS</b> 2026. </td>
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> May 2026 </th>
