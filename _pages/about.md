@@ -110,7 +110,7 @@ If you are interested in doing cool multimodal learning research, please apply v
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Jun 2026 </th>
-        <td>  <b>Myeongjin Lee</b> (M.S./Ph.D Integrated Student) started an internship at <b>Naver Cloud</b>! 🎉 </td>
+        <td>  <b>Myungjin Lee</b> (M.S./Ph.D Integrated Student) started an internship at <b>Naver Cloud</b>! 🎉 </td>
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Jun 2026 </th>
