@@ -31,6 +31,7 @@ latest_posts:
     <li data-target="#image-slider" data-slide-to="7"></li>
     <li data-target="#image-slider" data-slide-to="8"></li>
     <li data-target="#image-slider" data-slide-to="9"></li>
+    <li data-target="#image-slider" data-slide-to="10"></li>
   </ol>
 
 <div class="carousel-inner">
@@ -38,31 +39,34 @@ latest_posts:
         <img src="{{ 'assets/img/project_preview/groupphoto.jpg' | relative_url }}" class="d-block w-100" alt="Group Photo 1">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/cvpr26.jpg' | relative_url }}" class="d-block w-100" alt="Slide 1">
+        <img src="{{ 'assets/img/project_preview/eccv26.jpg' | relative_url }}" class="d-block w-100" alt="Slide 1">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/icassp2601.jpg' | relative_url }}" class="d-block w-100" alt="Slide 2">
+        <img src="{{ 'assets/img/project_preview/interspeech2602.jpg' | relative_url }}" class="d-block w-100" alt="Slide 2">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/icassp2602.jpg' | relative_url }}" class="d-block w-100" alt="Slide 3">
+        <img src="{{ 'assets/img/project_preview/interspeech2601.jpg' | relative_url }}" class="d-block w-100" alt="Slide 3">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide1.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 4">
+        <img src="{{ 'assets/img/project_preview/icml2601.jpg' | relative_url }}" class="d-block w-100" alt="Slide 4">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide2.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 5">
+        <img src="{{ 'assets/img/project_preview/icml2602.jpg' | relative_url }}" class="d-block w-100" alt="Slide 5">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide3.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 6">
+        <img src="{{ 'assets/img/project_preview/cvpr26.jpg' | relative_url }}" class="d-block w-100" alt="Slide 6">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide4.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 7">
+        <img src="{{ 'assets/img/project_preview/icassp2601.jpg' | relative_url }}" class="d-block w-100" alt="Slide 7">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide5.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 8">
+        <img src="{{ 'assets/img/project_preview/icassp2602.jpg' | relative_url }}" class="d-block w-100" alt="Slide 8">
     </div>
     <div class="carousel-item">
-        <img src="{{ 'assets/img/project_preview/Slide6.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 9">
+        <img src="{{ 'assets/img/project_preview/Slide1.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 9">
+    </div>
+    <div class="carousel-item">
+        <img src="{{ 'assets/img/project_preview/Slide2.jpeg' | relative_url }}" class="d-block w-100" alt="Slide 10">
     </div>
 </div>
 
