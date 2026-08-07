@@ -1,12 +1,12 @@
 ---
 layout: page
 name: YeongEun Byeon
-interests: Multimodal Learning
+interests: World Model
 photo: /assets/img/yeongeun_byeon.JPEG
 category: Graduate
 redirect:  
 tabs: false
-email: ye02nn@naver.com
+email: yeongeun@ewha.ac.kr
 importance: 5
 semester: M.S. Student
 ---

@@ -5,7 +5,7 @@ title: Students
 description: in Multimodal AI Lab @ EWHA
 nav: false
 nav_order: 4
-display_categories: [Postdoc, Graduate, Undergraduate]
+display_categories: [Postdoc, Graduate, Undergraduate, Robot]
 horizontal: true
 ---
 

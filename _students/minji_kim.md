@@ -1,10 +1,12 @@
 ---
 layout: page
 name: Minji Kim
-interests: Multimodal Learning
+interests: Physical AI
 photo: /assets/img/minji_kim.jpg
-category: Undergraduate
+category: Graduate
 redirect:  
 tabs: false
 email: mintlima03@naver.com
+importance: 6
+semester: M.S. Student
 ---

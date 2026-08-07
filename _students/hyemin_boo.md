@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Hyemin Boo
-interests: Multimodal Learning
+interests: Agentic AI, Robotics
 photo: /assets/img/hyemin_boo.JPG
 category: Graduate
 redirect:  

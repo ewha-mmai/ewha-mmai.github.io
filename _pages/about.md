@@ -87,7 +87,7 @@ latest_posts:
 </div>
 
 
-<b style="color: green">Multimodal AI Lab @ EWHA (PI: Jiyoung Lee)</b> focuses on developing robust and generalizable AI models that reason and generate information across multiple modalities—vision, audio, language, and robotics. 
+<b style="color: #225ca2">Multimodal AI Lab @ EWHA (PI: Jiyoung Lee)</b> focuses on developing robust and generalizable AI models that reason and generate information across multiple modalities—vision, audio, language, and robotics. 
 Our research spans multimodal large language models (MLLMs), agentic systems, robotics, multimodal generation, video understanding, 3D perception, cross-modal grounding, but not limited to. 
 We build multimodal systems that learn with minimal supervision and perform reliably in diverse, real-world settings.
 We aim to push the boundaries of multimodal learning and create AGI that is creative, effective, and efficient.
@@ -146,11 +146,11 @@ If you are interested in doing cool multimodal learning research, please apply v
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Apr 2025 </th>
-        <td> <b style="color: green">Multimodal AI Lab @ EWHA</b> website is now open! 👋 </td>
+        <td> <b style="color: #225ca2">Multimodal AI Lab @ EWHA</b> website is now open! 👋 </td>
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Mar 2025 </th>
-        <td> Prof.Jiyoung Lee joins in <b><a href="https://ai.ewha.ac.kr/deptai/index.do" style="color: green">Dept. of AI, Ewha Womans University</a></b> 👋 </td>
+        <td> Prof.Jiyoung Lee joins in <b><a href="https://ai.ewha.ac.kr/deptai/index.do" style="color: #225ca2">Dept. of AI, Ewha Womans University</a></b> 👋 </td>
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Feb 2025 </th>
@@ -158,7 +158,7 @@ If you are interested in doing cool multimodal learning research, please apply v
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Dec 2024 </th>
-        <td> Prof.Jiyoung Lee presented at <b><a href="https://event-us.kr/eventinfo/event/96012" style="color: green">Postech AI day</a></b> (topic: Read, Watch and Scream! Sound Generation from Text and Video). </td>
+        <td> Prof.Jiyoung Lee presented at <b><a href="https://event-us.kr/eventinfo/event/96012" style="color: #225ca2">Postech AI day</a></b> (topic: Read, Watch and Scream! Sound Generation from Text and Video). </td>
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Dec 2024 </th>
@@ -178,7 +178,7 @@ If you are interested in doing cool multimodal learning research, please apply v
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Sep 2024 </th>
-        <td> Prof.Jiyoung Lee serves a lecture, <b><a href="https://naver-ai.github.io/202402-AI773/" style="color: green">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a></b>, at Seoul National University (Fall 2024) </td>
+        <td> Prof.Jiyoung Lee serves a lecture, <b><a href="https://naver-ai.github.io/202402-AI773/" style="color: #225ca2">Topics in Artificial Intelligence: Multimodal Deep Learning Theories and Applications</a></b>, at Seoul National University (Fall 2024) </td>
     </tr>
     <tr>
         <th scope="row" style="width: 20%"> Jun 2024 </th>
