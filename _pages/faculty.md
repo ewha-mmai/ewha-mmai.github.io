@@ -14,9 +14,7 @@ profiles:
     content: about_jiyoung.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Dept. of AI</p>
-      <p>Ewha Womans University</p>
-      <p>Seoul, Korea</p>
+      <p>lee.jiyoung@ewha.ac.kr</p>
  
 ---
 
