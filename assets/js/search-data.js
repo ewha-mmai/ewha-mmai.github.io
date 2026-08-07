@@ -85,6 +85,11 @@ ninja.data = [{
           description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/eunsang_lee/";
+            },},{id: "students-franka",
+          title: 'Franka',
+          description: "",
+          section: "Students",handler: () => {
+              window.location.href = "/students/franka/";
             },},{id: "students-hyemin-boo",
           title: 'Hyemin_boo',
           description: "",
@@ -110,6 +115,11 @@ ninja.data = [{
           description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/new/";
+            },},{id: "students-saebom-yoon",
+          title: 'Saebom_yoon',
+          description: "",
+          section: "Students",handler: () => {
+              window.location.href = "/students/saebom_yoon/";
             },},{id: "students-sungwon-moon",
           title: 'Sungwon_moon',
           description: "",
@@ -125,11 +135,6 @@ ninja.data = [{
           description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/yeongeun_byeon/";
-            },},{id: "students-yoonhyung-park",
-          title: 'Yoonhyung_park',
-          description: "",
-          section: "Students",handler: () => {
-              window.location.href = "/students/yoonhyung_park/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
