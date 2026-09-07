@@ -80,6 +80,11 @@ ninja.data = [{
           description: "Researcher, LIG Nex1 [2025.07-2026.12]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lig_project/";
+            },},{id: "students-chaerim-shin",
+          title: 'Chaerim_shin',
+          description: "",
+          section: "Students",handler: () => {
+              window.location.href = "/students/chaerim_shin/";
             },},{id: "students-eunsang-lee",
           title: 'Eunsang_lee',
           description: "",
@@ -125,6 +130,11 @@ ninja.data = [{
           description: "",
           section: "Students",handler: () => {
               window.location.href = "/students/sungwon_moon/";
+            },},{id: "students-suyeon-cho",
+          title: 'Suyeon_cho',
+          description: "",
+          section: "Students",handler: () => {
+              window.location.href = "/students/suyeon_cho/";
             },},{id: "students-taein-ju",
           title: 'Taein_ju',
           description: "",
