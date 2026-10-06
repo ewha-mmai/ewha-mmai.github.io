@@ -100,6 +100,7 @@ We aim to push the boundaries of multimodal learning and create AGI that is crea
 **Recruiting Undergraduate Interns/ Graduate Students / Postdoctoral Researchers**:
 We are looking for undergraduate interns, graduate students, and postdoctoral researchers to research with! 
 If you are interested in doing cool multimodal learning research, please apply via this <a href="https://docs.google.com/forms/d/e/1FAIpQLSejyl3e5y_Uu-klWOyG0kGpe1UN_EeDEVSeG5DmP6AjK4LH4A/viewform" target="_blank">FORM</a> !
+(Please note that we are currently accepting applications only from Korean nationals.)
 
 &nbsp;
 
