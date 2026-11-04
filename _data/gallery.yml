@@ -1,3 +1,13 @@
+- date: "2026.10.27-2026.11.01"
+  caption: "Interspeech 2026, September 2026"
+  photos:
+    - lab_photos/2610_interspeech.jpg
+
+- date: "2026.10.10-2026.10.12"
+  caption: "ECCV 2026, September 2026"
+  photos:
+    - lab_photos/2610_eccv.jpg
+
 - date: "2026.07.07-2026.07.09"
   caption: "ICML 2026, July 2026"
   photos:
